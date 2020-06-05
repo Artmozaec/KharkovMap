@@ -1,0 +1,5 @@
+-libraryjars C:\WTK2.5.1\lib\jsr75.jar;C:\WTK2.5.1\lib\mmapi.jar;C:\WTK2.5.1\lib\midpapi20.jar;C:\WTK2.5.1\lib\wma11.jar;C:\WTK2.5.1\lib\cldcapi10.jar
+-injars C:\WTK2.5.1\apps\kharkovMap\bin\kharkovMap.jar
+-outjar C:\DOCUME~1\toxa\Local Settings\Temp\kharkovMap.jar
+-keep public class * extends javax.microedition.midlet.MIDlet 
+-dontusemixedcaseclassnames

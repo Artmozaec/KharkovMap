@@ -1,0 +1,10 @@
+MIDlet-1: KharkovMap, KharkovMap.png, programdirection.KharkovMap
+MIDlet-Name: KharkovMap
+MIDlet-Permissions: javax.microedition.io.Connector.file.read, javax.m
+ icroedition.io.Connector.file.write, javax.microedition.io.Connector.
+ socket, javax.microedition.io.Connector.http, javax.microedition.io.C
+ onnector.https, javax.microedition.io.Connector.ssl
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
